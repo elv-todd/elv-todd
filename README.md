@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I’m @elv-todd aka @toddhodes (Todd Hodes)
+Hi, I’m @elv-todd aka https://github.com/toddhodes (Todd Hodes)
 
 - Currently I’m working at Eluvio, a Berkeley media content management & distribution startup, mostly we do video streaming
 - Before that I worked at LocationLabs as Senior Scientist & Director of Mobile Engineering for many years, which became AVG and then Avast.
