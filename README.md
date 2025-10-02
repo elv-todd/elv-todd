@@ -7,3 +7,5 @@ Hi, I’m @elv-todd aka https://github.com/toddhodes (Todd Hodes)
   That went from tiny startup to sold; have a lot of stories
 - I received my PhD in Computer Science from UC Berkeley, did my undergrad at UVa, and was raised in Dunwoody (Atlanta), Georgia
 - I co-own a bar, the Orbit Room in Bloomington, and I'm the executive producer of some albums on various small indie record labels, and a few short films; people made (incomplete) IMDB and Discog pages for me!
+
+way more commits are in our private https://github.com/qluvio not our public repos
